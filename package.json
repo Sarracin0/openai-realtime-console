@@ -10,14 +10,35 @@
     "lint": "eslint . --ext .js,.jsx --fix"
   },
   "dependencies": {
+<<<<<<< Updated upstream
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+=======
+    "@fastify/env": "^4.4.0",
+    "@fastify/one-line-logger": "^1.2.0",
+    "@fastify/react": "^0.6.0",
+    "@fastify/vite": "^6.0.5",
+    "@radix-ui/react-slot": "^1.1.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "fastify": "^4.24.3",
+>>>>>>> Stashed changes
     "history": "^5.3.0",
+    "lucide-react": "^0.475.0",
     "minipass": "^7.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-feather": "^2.0.10",
+<<<<<<< Updated upstream
     "react-router-dom": "^6.20.0"
+=======
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.20.0",
+    "tailwind-merge": "^3.0.1",
+    "tailwindcss-animate": "^1.0.7",
+    "unihead": "^0.0.6",
+    "valtio": "^1.12.0"
+>>>>>>> Stashed changes
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
